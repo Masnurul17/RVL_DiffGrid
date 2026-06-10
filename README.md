@@ -21,7 +21,7 @@ Mas Nurul Achmadiah · Muhammad Ridha Agam · Chi-Chia Sun · Mao-Hsiu Hsu · We
 💻 <a href="https://github.com/Masnurul17/RVL_diffgrid"><b>Code</b></a>
 </p>
 
-Official PyTorch implementation of **RVL-DiffGrid**. If you find this repository useful, please give it a star ⭐.
+Official PyTorch implementation of **RVL-DiffGrid**.
 
 <img src="assets/architecture.png" width="92%">
 
